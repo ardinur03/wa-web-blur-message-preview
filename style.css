@@ -1,0 +1,15 @@
+/** Blur chat sender name */
+.zoWT4 {
+    filter: blur(4px); 
+}
+
+/** Blur Chat */
+._37FrU {
+    filter: blur(4px);
+}
+
+/* Value Statement css function blur()
+*  blur(0)       No effect 
+*  blur(8px)     Blur with 8px radius 
+*  blur(1.17rem) Blur with 1.17rem radius 
+*/
